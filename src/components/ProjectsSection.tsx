@@ -49,12 +49,12 @@ export function ProjectsSection() {
     },
     {
       num: '04',
-      title: 'CricketKinematics',
-      tagline: 'Sports Analytics · Physics',
+      title: 'Cricket Analytics',
+      tagline: 'Sports Intelligence · Match Data',
       description:
-        'A sports intelligence model applying 3D fluid drag and Magnus seam mechanics to analyze ball trajectory vectors and optimize field placement strategy.',
+        'A data-driven cricket analytics tool modeling match situations, scoring patterns, and player performance metrics for tactical insights.',
       image: '/src/assets/images/cricket_analytics_visual_1793266916589.jpg',
-      tech: ['Python', 'SciPy', 'Kinematics', 'Data Modeling'],
+      tech: ['Python', 'Pandas', 'Data Analysis', 'Visualization'],
       githubUrl: 'https://github.com/sakshambhargava300/cricket-strategy-telemetry',
       liveUrl: 'https://github.com/sakshambhargava300/cricket-strategy-telemetry',
     },

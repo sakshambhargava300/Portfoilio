@@ -107,20 +107,20 @@ export function AboutSection() {
         >
           <div>
             <div className="flex items-center justify-between font-mono text-xs text-zinc-500 mb-3">
-              <span>PASSION & SPORT</span>
-              <span className="text-sky-300">Athletics</span>
+              <span>HOBBIES & INTERESTS</span>
+              <span className="text-sky-300">Sport</span>
             </div>
             <h3 className="text-lg font-semibold text-white group-hover:text-lime-300 transition-colors mb-1">
-              Cricket & Analytics
+              Cricket
             </h3>
-            <p className="font-mono text-xs text-sky-300 mb-3">Game Theory · Spatial Physics</p>
+            <p className="font-mono text-xs text-sky-300 mb-3">Outdoor Sport · Recreation</p>
             <p className="text-xs text-zinc-400 leading-relaxed">
-              Passionate cricketer modeling seam aerodynamics, corridor bounce vectors, and spatial field placement geometries.
+              Passionate cricket player and follower. Enjoying weekend matches, following the sport, and playing actively as a favourite hobby.
             </p>
           </div>
           <div className="mt-6 pt-3 border-t border-white/10 flex items-center justify-between font-mono text-[11px] text-zinc-500">
-            <span>Spatial Strategy</span>
-            <span className="text-zinc-300">Kinematics</span>
+            <span>Outdoor Sport</span>
+            <span className="text-zinc-300">Hobby</span>
           </div>
         </div>
       </div>
